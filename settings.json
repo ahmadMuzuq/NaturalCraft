@@ -1,0 +1,5 @@
+{
+    "http.systemCertificatesNode": true,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "claudeCode.preferredLocation": "panel"
+}
